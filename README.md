@@ -43,13 +43,13 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 
 ## 🔧 Projects
 
-### [Universo-Cypress](https://github.com/andrelkj/Universo-Cypress)
+### 💈 [Universo-Cypress](https://github.com/andrelkj/Universo-Cypress)
 A project to automate Samurai Barber Shop using the Cypress framework to write tests, PostgreSQL and ElephantSQL to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
 
-### [ZombiePlus](https://github.com/andrelkj/ZombiePlus)
+### 🧟‍♂️ [ZombiePlus](https://github.com/andrelkj/ZombiePlus)
 A project to automate Zombie+ (a copy of the Disney+ platform) using the Playwright framework to write tests, PostgreSQL and Docker to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
 
-### [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
+### 👨‍🚀 [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
 A project to automate GetGeeks, a service providers platform, using Robot Framework to create the tests, Fly to deploy the application, REST API to validate backend requests, PostgreSQL managed through ElephantSQL to store and manage data, and GitHub Actions as a pipeline for continuous integration.
 
 ## 📫 Contact Me

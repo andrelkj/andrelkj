@@ -12,12 +12,16 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 - 📚 Constantly learning and experimenting with new technologies.
 - 🎯 Interested in **Python**, **JavaScript**, **Node.js**, and **CI/CD** tools.
 
+## 📫 Contact Me
+- [Email](mailto:andre.kreutzer@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/andrekj)
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="60" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="60"/>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="60" />
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" width="60" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" width="60" />
@@ -28,8 +32,8 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 
 ### Tools & Platforms
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="60" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="60"; />
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="60" />
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="60" />
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="60" />
@@ -51,14 +55,6 @@ A project to automate Zombie+ (a copy of the Disney+ platform) using the Playwri
 
 ### [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
 A project to automate GetGeeks, a service providers platform, using Robot Framework to create the tests, Fly to deploy the application, REST API to validate backend requests, PostgreSQL managed through ElephantSQL to store and manage data, and GitHub Actions as a pipeline for continuous integration.
-
-## 📊 GitHub Stats
-
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true&line_height=30)
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6)
 
 ## 🎨 Activity Graph
 

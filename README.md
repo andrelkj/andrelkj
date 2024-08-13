@@ -7,60 +7,59 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 ## 🚀 About Me
 
 - 🌍 Based in Brazil, working remotely.
-- 🔍 Focused on **QA Engineering**, **QA Automation Engineering** and **SDET** roles.
+- 🔍 Focused on **QA Engineering**, **QA Automation Engineering**, and **SDET** roles.
 - 💼 Currently working on projects that involve **Cypress**, **Playwright**, and **Selenium**.
 - 📚 Constantly learning and experimenting with new technologies.
 - 🎯 Interested in **Python**, **JavaScript**, **Node.js**, and **CI/CD** tools.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python
-- **Frameworks**: Cypress, Playwright, Selenium
-- **Tools**: Git, Docker, Postman
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Platforms**: GitHub, GitLab
+### Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</p>
 
 ## 🔧 Projects
 
 ### [Universo-Cypress](https://github.com/andrelkj/Universo-Cypress)
-A comprehensive Cypress project that includes testing for APIs, web applications, and various automation scripts. This repository showcases best practices in writing end-to-end tests and maintaining test suites.
+A project to automate Samurai Barber Shop using the Cypress framework to write tests, PostgreSQL and ElephantSQL to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
 
 ### [ZombiePlus](https://github.com/andrelkj/ZombiePlus)
-A test automation project focused on a fictional application called ZombiePlus. It uses Playwright and JavaScript to demonstrate automation techniques, including database validations using PostgreSQL.
+A project to automate Zombie+ (a copy of the Disney+ platform) using the Playwright framework to write tests, PostgreSQL and Docker to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
 
 ### [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
-An innovative project that explores the use of automation in the gaming industry. Gravidade Zero is a proof-of-concept that demonstrates how testing can be applied to complex gaming scenarios, with a focus on game stability, performance, and user experience.
+A project to automate GetGeeks, a service providers platform, using Robot Framework to create the tests, Fly to deploy the application, REST API to validate backend requests, PostgreSQL managed through ElephantSQL to store and manage data, and GitHub Actions as a pipeline for continuous integration.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true" alt="André's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
-
-## 🌱 What I'm Learning
-
-- Deep diving into **Python** for more complex test automation scenarios.
-- Exploring **Docker** for containerizing test environments.
-- Learning **Jest** and **Playwright** for comprehensive test coverage.
-
-## 📫 How to Reach Me
-
-- **Email**: [andre.kreutzer@outlook.com](mailto:andre.kreutzer@outlook.com)
-- **LinkedIn**: [André Luiz on LinkedIn](https://www.linkedin.com/in/andrekj)
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true&line_height=30)
 
 ## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-  <img src="https://streak-stats.demolab.com/?user=andrelkj&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6)
 
 ## 🎨 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Activity)
 
 ---
 

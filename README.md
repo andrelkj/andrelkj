@@ -10,4 +10,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=SeuUsername&theme=onedark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SeuUsername&theme=highcontrast)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SeuUsername&theme=react-dark)
+![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeuUsername&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true)
+

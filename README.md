@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 - 📚 Constantly learning and experimenting with new technologies.
 - 🎯 Interested in **Python**, **JavaScript**, **Node.js**, and **CI/CD** tools.
 
-## 📫 Contact Me
-- [Email](mailto:andre.kreutzer@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/andrekj)
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -56,9 +52,9 @@ A project to automate Zombie+ (a copy of the Disney+ platform) using the Playwri
 ### [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
 A project to automate GetGeeks, a service providers platform, using Robot Framework to create the tests, Fly to deploy the application, REST API to validate backend requests, PostgreSQL managed through ElephantSQL to store and manage data, and GitHub Actions as a pipeline for continuous integration.
 
-## 🎨 Activity Graph
-
-![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Activity)
+## 📫 Contact Me
+- [Email](mailto:andre.kreutzer@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/andrekj)
 
 ---
 

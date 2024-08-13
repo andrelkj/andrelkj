@@ -30,7 +30,7 @@ A test automation project focused on a fictional application called ZombiePlus. 
 
 ## 📊 GitHub Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact&theme=radical&hide_border=true)
 
 ## 🌱 What I'm Learning

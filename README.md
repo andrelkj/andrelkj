@@ -26,12 +26,17 @@ Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a s
 A comprehensive Cypress project that includes testing for APIs, web applications, and various automation scripts. This repository showcases best practices in writing end-to-end tests and maintaining test suites.
 
 ### [ZombiePlus](https://github.com/andrelkj/ZombiePlus)
-A test automation project focused on a fictional application called ZombiePlus. It uses Playwright and Javascript to demonstrate automation techniques, including database validations using PostgreSQL.
+A test automation project focused on a fictional application called ZombiePlus. It uses Playwright and JavaScript to demonstrate automation techniques, including database validations using PostgreSQL.
+
+### [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
+An innovative project that explores the use of automation in the gaming industry. Gravidade Zero is a proof-of-concept that demonstrates how testing can be applied to complex gaming scenarios, with a focus on game stability, performance, and user experience.
 
 ## 📊 GitHub Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true" alt="André's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 ## 🌱 What I'm Learning
 
@@ -46,12 +51,16 @@ A test automation project focused on a fictional application called ZombiePlus. 
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6)
-![GitHub Streak](https://streak-stats.demolab.com/?user=andrelkj&theme=highcontrast)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=andrelkj&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🎨 Activity Graph
 
-![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 

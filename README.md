@@ -30,8 +30,8 @@ A test automation project focused on a fictional application called ZombiePlus. 
 
 ## 📊 GitHub Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact)
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelkj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelkj&layout=compact&theme=radical&hide_border=true)
 
 ## 🌱 What I'm Learning
 
@@ -46,12 +46,12 @@ A test automation project focused on a fictional application called ZombiePlus. 
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=andrelkj&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=andrelkj&theme=radical&no-frame=true&row=1&column=6)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=andrelkj&theme=highcontrast)
 
 ## 🎨 Activity Graph
 
-![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=react-dark)
+![André's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrelkj&theme=radical&bg_color=1F222E&color=9e4c98&line=9e4c98&point=FFFFFF&area=true&hide_border=true)
 
 ---
 

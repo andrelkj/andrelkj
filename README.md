@@ -1,61 +1,50 @@
-# 👋 Hello, I'm André Luiz
+# Hi, I'm André Kreutzer 👋
 
-**QA Engineer | QA Automation Engineer | Tech Enthusiast**
+**Sr. QA Engineer / SDET** · Playwright · C# · API · Mobile · AI-assisted QA\
+Curitiba, Brazil · Remote · Open to Sr QA / SDET roles
 
-Welcome to my GitHub profile! I'm André Luiz, a passionate QA Engineer with a strong QA, software testing, and automation background. I love building robust and efficient testing frameworks that ensure the highest software quality.
+[![Portfolio](https://img.shields.io/badge/Portfolio-andrelkj.github.io-15803d)](https://andrelkj.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrekj-0a66c2)](https://www.linkedin.com/in/andrekj)
+[![Email](https://img.shields.io/badge/Email-andre.kreutzer%40outlook.com-555)](mailto:andre.kreutzer@outlook.com)
 
-## 🚀 About Me
+I build test automation that teams can trust, across web, iOS and Android, for fintech and iGaming products. I've spent 4+ years on it, from cross-platform regression and framework migrations to AI-assisted QA. Next, I want to go deeper into **testing AI-powered products and building AI tooling** for engineering teams.
 
-- 🌍 Based in Brazil, working remotely.
-- 🔍 Focused on **QA Engineering**, **QA Automation Engineering**, and **SDET** roles.
-- 💼 Currently working on projects that involve **Cypress**, **Playwright**, and **Selenium**.
-- 📚 Constantly learning and experimenting with new technologies.
-- 🎯 Interested in **Python**, **JavaScript**, **Node.js**, and **CI/CD** tools.
+## 💼 Experience
 
-## 🛠️ Tech Stack
+- **Software Engineer in Test @ Kaizen Gaming** · Jan 2025 – present\
+  Automation for a sportsbook with live data and video streaming on Web, iOS and Android. I own weekly cross-platform regression, built mocking strategies for live-data UI, and started a QA Revamp to clean up the suite and make its results trustworthy.
+- **Sr. QA Engineer @ Questrade** · Mar 2023 – Sep 2026\
+  Led QA for a 500+ page site migration and two test framework migrations, and built AI-driven QA workflows.
+- **Software QA Analyst @ Tunts.Rocks | AOA Technology** · Jun 2020 – Jan 2023
 
-### Languages & Frameworks
+## 📈 Highlights
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="60"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="60" />
-  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" width="60" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="60" />
-</p>
+- **500+ page** website migration validated, with **10+ production defects** caught before launch, including a critical privacy/consent gap
+- Robot Framework → Playwright → Cypress migrations cut regression run time by **80%+**
+- AI workflows with MCP servers generate full E2E suites in **under 1 hour**, and turned **3–4 days** of test planning into **~2 hours**
+- **12+ months** owning weekly full regression on iOS, Android and Web
 
-### Tools & Platforms
+## 🛠️ Stack
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="60"; />
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="60" />
-</p>
+| Area | Tools |
+| --- | --- |
+| Web | Playwright (C#/.NET, TypeScript) · Cypress · cypress-axe |
+| Mobile | XCUITest · Espresso · BrowserStack · Sauce Labs |
+| API | Postman · Charles Proxy · Mockoon · REST validation |
+| Languages & data | C# · TypeScript · JavaScript · SQL (MySQL, SQL Server) |
+| CI/CD & observability | GitLab CI · Cypress Cloud · Datadog · Grafana |
+| AI-driven QA | MCP test generation · AI code review gates · requirements → test plans |
 
 ## 🔧 Projects
 
-### 💈 [Universo-Cypress](https://github.com/andrelkj/Universo-Cypress)
-A project to automate Samurai Barber Shop using the Cypress framework to write tests, PostgreSQL and ElephantSQL to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
+- **[andrelkj.github.io](https://github.com/andrelkj/andrelkj.github.io)**: my portfolio, built with Claude Code as an example of an AI-assisted workflow, with every change verified in a browser and split into reviewable commits. [How it was built →](https://andrelkj.github.io/#built-with-ai)
 
-### 🧟‍♂️ [ZombiePlus](https://github.com/andrelkj/ZombiePlus)
-A project to automate Zombie+ (a copy of the Disney+ platform) using the Playwright framework to write tests, PostgreSQL and Docker to store and maintain data, REST API for backend validation, and GitHub Actions as a pipeline for continuous integration.
+Course projects:
 
-### 👨‍🚀 [Gravidade Zero](https://github.com/andrelkj/GravidadeZero)
-A project to automate GetGeeks, a service providers platform, using Robot Framework to create the tests, Fly to deploy the application, REST API to validate backend requests, PostgreSQL managed through ElephantSQL to store and manage data, and GitHub Actions as a pipeline for continuous integration.
+- **[Universo-Cypress](https://github.com/andrelkj/Universo-Cypress)**: Cypress E2E for a barber-shop booking app, with PostgreSQL test data, REST API checks and GitHub Actions CI
+- **[ZombiePlus](https://github.com/andrelkj/ZombiePlus)**: Playwright E2E for a streaming-catalog app, with PostgreSQL in Docker, REST API checks and GitHub Actions CI
+- **[GravidadeZero](https://github.com/andrelkj/GravidadeZero)**: Robot Framework tests for a service-provider platform, with REST API checks, PostgreSQL and GitHub Actions CI
 
-## 📫 Contact Me
-- [Email](mailto:andre.kreutzer@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/andrekj)
+## 📫 Contact
 
----
-
-Thanks for visiting my profile! Please feel free to explore my repositories and let me know if you'd like to collaborate.
+The fastest way to reach me is [email](mailto:andre.kreutzer@outlook.com) or [LinkedIn](https://www.linkedin.com/in/andrekj). My resume is on the [portfolio](https://andrelkj.github.io/).
